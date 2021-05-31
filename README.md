@@ -1,6 +1,6 @@
 # Shiver Me Timbers
 
-An easy-to-use collection of data and images from **[Shiver Me Timbers]** (https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by Developer: **Michal Vitkovsky**.
+An easy-to-use collection of data and images from !**[Shiver Me Timbers]**(https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by Developer: **Michal Vitkovsky**.
 
 ## What's included
 
