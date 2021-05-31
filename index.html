@@ -1,0 +1,353 @@
+<!DOCTYPE html>
+<html lang="en-US" dir="ltr">
+	<head>
+		<title>CSCV Card Viewer - Test Page</title>
+		<meta charset="utf-8">
+		<!--
+		<script src="https://code.jquery.com/jquery.min.js"></script>
+		<script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.0.js"></script>
+		<script src="https://code.jquery.com/jquery-3.4.0.min.js"></script>
+		<!-- link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/font-awesome.min.css" -->
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+		<style>
+			.cdcRed {
+				color:red;
+			}
+			.accordion {
+				padding-left: 40px;
+			}
+			h1 .fa, h2 .fa, h3 .fa {
+				font-size: 10px;
+			}
+			.TextZone {
+				//to be used for custom display of the text;
+				padding-left: 40px;
+			}
+			.title {
+				top: 0;
+				left: 0;
+				position: fixed;
+				font-size: 10px;
+				padding: 5px;
+				margin: 5px 0 0 5px;
+				border-radius: 5px;
+				text-align: center;
+				border: 1px solid #9999ff;
+				background-color: #dddddd;
+			}
+		</style>
+		<script>
+			// at statup hide all
+			function Initialize(){
+				var $accordionIO = $('.accordion h1, h2, h3');
+				$accordionIO.next('div').hide();
+
+				$(".accordion h1, h2, h3").click(function() {
+					//catch icon to switch from + to - and the opposite
+					var Icon = $(this).children().first();
+
+					//catch zone do expand collapse
+					var LinkedTextZone = $(this).next();
+
+					if (Icon.hasClass('fa-plus')) {
+						//switch icin from + to -
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+						//expand text Zone
+						LinkedTextZone.slideDown();
+					}
+					else {
+						//switch icin from - to +
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+						//collapse text Zone
+						LinkedTextZone.slideUp();
+					}
+				})
+				$(".title").click(function() {
+					var Icon = $(this).children().first();
+					var $AllTextZones = $('.accordion h1, h2, h3');
+					if (Icon.hasClass('fa-minus')) {
+						//switch all icons from + to -
+						$('.fa-plus').removeClass('fa-plus').addClass('fa-minus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-minus').addClass('fa-plus');
+
+						//expand all
+						$AllTextZones.next('div').slideDown();
+					}
+					else {
+						//switch all icons from - to +
+						$('.fa-minus').removeClass('fa-minus').addClass('fa-plus');
+						//title icon is opposite of all others
+						Icon.removeClass('fa-plus').addClass('fa-minus');
+
+						//collapse all
+						$AllTextZones.next('div').slideUp();
+					}
+				})
+			}
+		</script>
+	</head>
+	<body onload="Initialize()">
+		<div class="title">
+			<i class="fa fa-minus"></i>
+			<br />
+			to All
+		</div>
+
+        <h1 align="center"> Crimson Scales Card Viewer - Test Page</h1>
+
+		<div class="accordion">
+			<h1><i class="fa fa-plus"></i> Test Page: Completely Spoiler Free </h1>
+			<div class="TextZone">
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Attack Modifiers </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Base </h2>
+							<div class="TextZone">
+								<div class="accordion">
+									<h3><i class="fa fa-plus"></i> Monster </h3>
+									<div class="TextZone">
+										<div class="accordion">
+											<ul>
+												<li>am-m-01</li>
+												<li>am-m-back</li>
+											</ul>
+										</div>
+									</div>
+									<h3><i class="fa fa-plus"></i> Monster Mod</h3>
+									<div class="TextZone">
+										<div class="accordion">
+											<ul>
+												<li>am-mm-01</li>
+												<li>am-mm-back</li>
+											</ul>
+										</div>
+									</div>
+									<h3><i class="fa fa-plus"></i> Player </h3>
+									<div class="TextZone">
+										<div class="accordion">
+											<ul>
+												<li>am-p1-01</li>
+												<li>am-p1-back</li>
+											</ul>
+										</div>
+									</div>
+									<h3><i class="fa fa-plus"></i> Player Mod</h3>
+									<div class="TextZone">
+										<div class="accordion">
+											<ul>
+												<li>am-pm-01</li>
+												<li>am-pm-back</li>
+											</ul>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Brute </h2>
+							<div class="TextZone">
+								<ul>
+									<li>am-br-01</li>
+									<li>am-br-back</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Battle Goals </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Aggressor</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Character Ability Cards (Original & Revised) </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Brute </h2>
+							<div class="TextZone">
+								<ul>
+									<li>Balanced Measure</li>
+									<li>BR-Back</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Character Mats </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Brute</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Character Perks </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Party Sheet</li>
+							<li>Brute Perks</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Events (Original & Revised) </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> City </h2>
+							<div class="TextZone">
+								<ul>
+									<li>ce-01-b</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Rift </h2>
+							<div class="TextZone">
+								<ul>
+									<li>rf-01-b</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Road </h2>
+							<div class="TextZone">
+								<ul>
+									<li>re-01-b</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Items </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> 1-14 </h2>
+							<div class="TextZone">
+								<ul>
+									<li>Boots of Striding</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Monster Ability Cards </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Ancient Artillery </h2>
+							<div class="TextZone">
+								<ul>
+									<li>ma-aa-1</li>
+									<li>ma-aa-back</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Monster Stat Cards </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Aesther Ashblade</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Overlay Tokens </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Corridors </h2>
+							<div class="TextZone">
+								<ul>
+									<li>Earth</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Personal Goals </h1>
+					<div class="TextZone">
+						<ul>
+							<li>pg-510</li>
+							<li>pg-back</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Player Aid Cards </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Player Reference Back</li>
+							<li>Player Reference Front</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Random Dungeons </h1>
+					<div class="TextZone">
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Dungeons </h2>
+							<div class="TextZone">
+								<ul>
+									<li>Random Dungeon A-Back</li>
+								</ul>
+							</div>
+						</div>
+						<div class="accordion">
+							<h2><i class="fa fa-plus"></i> Monsters </h2>
+							<div class="TextZone">
+								<ul>
+									<li>Random Dungeon Archaic</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Random Scenarios </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Arcane Library</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> Summons </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Summons</li>
+						</ul>
+					</div>
+				</div>
+				<div class="accordion">
+					<h1><i class="fa fa-plus"></i> World Map </h1>
+					<div class="TextZone">
+						<ul>
+							<li>Abandoned Sewers</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<h1><i class="fa fa-plus"></i> Test Page: Envelope X (GH) & Envelope D (FC) Spoiler Free </h1>
+			<div class="TextZone">
+				<div class="accordion">
+				</div>
+			</div>
+			<h1><i class="fa fa-plus"></i> Test Page: Everything Spoiled </h1>
+			<div class="TextZone">
+				<div class="accordion">
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
