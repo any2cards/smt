@@ -1,6 +1,6 @@
 # Shiver Me Timbers
 
-An easy-to-use collection of data and images from [Shiver Me Timbers] (https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by [Developer: Michal Vitkovsky].
+An easy-to-use collection of data and images from (Shiver Me Timbers: https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by (Developer: Michal Vitkovsky).
 
 ## What's included
 
@@ -60,7 +60,7 @@ This project uses [SemVer](http://semver.org/). Given a `MAJOR.MINOR.PATCH` vers
 
 ## History
 
-See the [Releases tab](https://github.com/any2cards/gloomhaven/releases) in Github.
+See the [Releases tab](https://github.com/any2cards/smt/releases) in Github.
 
 ## Contributors
 
@@ -71,5 +71,5 @@ This work would not have been possible without the invaluable help and guidance 
 
 ---
 
-Gloomhaven: Gloomhaven and all related properties, images and text are owned by Cephalofair Games.
+Shiver Me Timbers: Shiver Me Timbers and all related properties, images and text are owned by Michal Vitkovsky.
 
