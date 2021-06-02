@@ -1,7 +1,14 @@
 const files = [
-  'attack-modifiers.js',
-  'battle-goals.js',
-  'character-ability-cards.js',
+  'crews.js',
+  'duels.js',
+  'life-goals.js',
+  'missions.js',
+  'monster-hunts.js',
+  'rituals.js',
+  'soulmates.js',
+  'titles.js',
+  'treasures.js',
+  'wind-events.js',
 ]
 
 //  'overlay-tokens.js',
@@ -21,7 +28,7 @@ const imagePadding = 4;
 let amountOfMatches = 1;
 const classname = '__xwc-container';
 
-// Put longer names first, so "Crippling Curse" matches before "Crippling"
+// Put longer names first, so "Daring Cabin Boy" matches before "Daring"
 const sortData = (a, b) => (a.length > b.length ? -1 : 1);
 
 const escapeRegExp = string => {
@@ -115,7 +122,7 @@ const createTooltip = () => {
   tooltipLine.innerHTML = `
         <p class="__xwc-powered-by">
             <img src="${iconUrl}" />
-            Powered by SMT Card Viewer
+            Powered by Shiver Me Timbers Card Viewer
         </p>
     `;
 

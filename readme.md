@@ -6,9 +6,16 @@ An easy-to-use collection of data and images from [Shiver Me Timbers](https://ww
 
 This repository contains data and images for the following components:
 
-- cards
-- map-pieces
-- tokens
+- crews
+- duels
+- life-goals
+- missions
+- monster-hunts
+- rituals
+- soulmates
+- titles
+- treasures
+- wind-events
 
 There are two top-level directories; `data` and `images`.
 
