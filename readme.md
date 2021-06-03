@@ -12,10 +12,10 @@ This repository contains data and images for the following components:
 - missions
 - monster-hunts
 - rituals
-- soulmates
 - titles
 - treasures
 - wind-events
+- wishes
 
 There are two top-level directories; `data` and `images`.
 
