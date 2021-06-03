@@ -150,9 +150,9 @@
     "xws": "rackhamsmemoir"
   },
   {
-    "name": "Rayleigh's Spyglass",
+    "name": "Raleigh's Spyglass",
     "points": 25,
-    "image": "treasures/rayleighs-spyglass.png",
+    "image": "treasures/raleighs-spyglass.png",
     "xws": "rayleighsspyglass"
   },
   {
@@ -212,8 +212,8 @@
   {
     "name": "Treasure Map",
     "points": 35,
-    "image": "treasures/Treasure Map.png",
-    "xws": "Treasure Map"
+    "image": "treasures/treasure-map.png",
+    "xws": "treasuremap"
   },
   {
     "name": "Velvet Eye Patch",
