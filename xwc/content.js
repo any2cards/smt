@@ -5,10 +5,10 @@ const files = [
   'missions.js',
   'monster-hunts.js',
   'rituals.js',
-  'soulmates.js',
   'titles.js',
   'treasures.js',
   'wind-events.js',
+  'wishes.js',
 ]
 
 //  'overlay-tokens.js',
