@@ -18,7 +18,7 @@
     "xws": "callthekraken"
   },
   {
-    "name": "Hummingbord Totem",
+    "name": "Hummingbird Totem",
     "points": 3,
     "image": "rituals/hummingbird-totem.png",
     "xws": "hummingbirdtotem"
