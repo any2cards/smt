@@ -110,7 +110,7 @@
   {
     "name": "Free La Juanita!",
     "points": 18,
-    "image": "missions/freelajuanita.png",
+    "image": "missions/free-la-juanita.png",
     "xws": "freelajuanita"
   },
   {
