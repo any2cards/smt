@@ -1,6 +1,6 @@
 [
   {
-    "name": "life-goals Back",
+    "name": "Life Goals Back",
     "points": 0,
     "image": "life-goals/life-goals-back.png",
     "xws": "lifegoalsback"

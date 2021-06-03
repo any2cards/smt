@@ -265,6 +265,8 @@ document.body.addEventListener(
         promises.push(promise);
       });
 
+      showTooltip();
+
       // When all images are loaded; Hide loader and show images
       Promise.all(promises).then(() => {
         amountOfMatches = images.length;
