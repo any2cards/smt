@@ -102,31 +102,31 @@
     "xws": "forgealliances"
   },
   {
-    "name": "Free Isla Oscura",
+    "name": "Free Isla Oscura!",
     "points": 17,
     "image": "missions/free-isla-oscura.png",
     "xws": "freeislaoscura"
   },
   {
-    "name": "Free La Juanita",
+    "name": "Free La Juanita!",
     "points": 18,
     "image": "missions/freelajuanita.png",
     "xws": "freelajuanita"
   },
   {
-    "name": "Free Sao Tome",
+    "name": "Free Sao Tome!",
     "points": 19,
     "image": "missions/free-sao-tome.png",
     "xws": "freesaotome"
   },
   {
-    "name": "Free St. David",
+    "name": "Free St. David!",
     "points": 20,
     "image": "missions/free-st-david.png",
     "xws": "freestdavid"
   },
   {
-    "name": "Free The Bay",
+    "name": "Free The Bay!",
     "points": 21,
     "image": "missions/free-the-bay.png",
     "xws": "freethebay"
