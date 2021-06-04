@@ -53,8 +53,8 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [SMT Card Viewer](https://chrome.google.com/webstore/detail/smt-card-viewer/gjiegeogakafejcpakamlkjgdoeiecnk) (Chrome Extension)
-- [SMT Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/smt-card-viewer/) (Firefox Add-On)
+- [SMT Card Viewer](https://chrome.google.com/webstore/detail/shiver-me-timbers-card-vi/ghkemgcekgmlbljofgjgcglodnchnnal) (Chrome Extension)
+- [SMT Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/shiver-me-timbers-card-viewer/) (Firefox Add-On)
 
 Want your project listed here? [Let us know!](https://github.com/any2cards/smt/issues/new?title=Add%20Project)
 
