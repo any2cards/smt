@@ -210,7 +210,7 @@
     "xws": "thekingsprivateer"
   },
   {
-    "name": "The King's Privateer",
+    "name": "The King’s Privateer",
     "points": 35,
     "image": "missions/the-kings-privateer.png",
     "xws": "thekingsprivateer"
