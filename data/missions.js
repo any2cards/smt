@@ -210,32 +210,38 @@
     "xws": "thekingsprivateer"
   },
   {
-    "name": "Tidings Isla Oscura",
+    "name": "The King's Privateer",
     "points": 35,
+    "image": "missions/the-kings-privateer.png",
+    "xws": "thekingsprivateer"
+  },
+  {
+    "name": "Tidings Isla Oscura",
+    "points": 36,
     "image": "missions/tidings-isla-oscura.png",
     "xws": "tidingsislaoscura"
   },
   {
     "name": "Tidings La Juanita",
-    "points": 36,
+    "points": 37,
     "image": "missions/tidings-la-juanita.png",
     "xws": "tidingslajuanita"
   },
   {
     "name": "Tidings Sao Tome",
-    "points": 37,
+    "points": 38,
     "image": "missions/tidings-sao-tome.png",
     "xws": "tidingssaotome"
   },
   {
     "name": "Tidings St. David",
-    "points": 38,
+    "points": 39,
     "image": "missions/tidings-st-david.png",
     "xws": "tidings-st-david"
   },
   {
     "name": "Tidings The Bay",
-    "points": 39,
+    "points": 40,
     "image": "missions/tidings-the-bay.png",
     "xws": "tidingsthebay"
   }
