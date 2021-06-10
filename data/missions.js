@@ -204,6 +204,12 @@
     "xws": "thegovernorsbuccaneer"
   },
   {
+    "name": "The King's Privateer",
+    "points": 34,
+    "image": "missions/the-kings-privateer.png",
+    "xws": "thekingsprivateer"
+  },
+  {
     "name": "Tidings Isla Oscura",
     "points": 36,
     "image": "missions/tidings-isla-oscura.png",
