@@ -11,6 +11,7 @@ const files = [
   'player-aids.js',
   'rituals.js',
   'routes.js',
+  'soulmates.js',
   'titles.js',
   'treasures.js',
   'wind-events.js',
