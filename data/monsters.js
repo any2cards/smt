@@ -1,9 +1,9 @@
 [
   {
-    "name": "Monster Markers",
+    "name": "Monsters",
     "points": 0,
     "image": "monsters/monsters.png",
-    "xws": "monstermarkers"
+    "xws": "monsters"
   },
   {
     "name": "The Kraken",
