@@ -1,31 +1,49 @@
-# Shiver Me Timbers
+# Shiver Me Timbers (SMT)
 
-An easy-to-use collection of data and images from [Shiver Me Timbers](https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by developer: **Michal Vitkovsky**.
+An easy-to-use collection of data and images from [Shiver Me Timbers](https://www.kickstarter.com/projects/shivermetimbers/shiver-me-timbers-0) by Developer: **Michal Vitkovsky**.
 
 ## What's included
 
 This repository contains data and images for the following components:
 
+- boards
+- coins
 - crews
 - duels
+- family-members
+- fortresses
+- islands
 - life-goals
+- merchants
+- miniatures
 - missions
 - monster-hunts
+- monsters
+- origins
+- pests
+- player-aids
 - rituals
+- routes
+- soulmates
+- talents
 - titles
 - treasures
 - wind-events
 - wishes
 
-There are two top-level directories; `data` and `images`.
+There are three top-level directories; `data` , `images` , and `xwc`.
 
 ### data
 
-The `data` folder contains all Shiver Me Timbers data in JSON format.
+The `data` folder contains all SMT Card Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains images for each of the above components.
+The `images` folder contains SMT Card Viewer images for each of the above data components.
+
+### xwc
+
+The `xwc` folder contains all of the files that power the SMT Card Viewer Chrome Extension/Firefox Add-On.
 
 ## Usage
 
