@@ -9,6 +9,7 @@ const files = [
   'missions.js',
   'monster-hunts.js',
   'monsters.js',
+  'origins.js',
   'pests.js',
   'player-aids.js',
   'rituals.js',
