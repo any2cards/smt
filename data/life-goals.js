@@ -66,86 +66,92 @@
     "xws": "tombraider"
   },
   {
-    "name": "blue life goal back",
+    "name": "black life goal back",
     "points": 11,
+    "image": "life-goals/black-life-goal-back.png",
+    "xws": "blacklifegoalback"
+  },
+  {
+    "name": "blue life goal back",
+    "points": 12,
     "image": "life-goals/blue-life-goal-back.png",
     "xws": "bluelifegoalback"
   },
   {
     "name": "green life goal back",
-    "points": 12,
+    "points": 13,
     "image": "life-goals/green-life-goal-back.png",
     "xws": "greenlifegoalback"
   },
   {
     "name": "red life goal back",
-    "points": 13,
+    "points": 14,
     "image": "life-goals/red-life-goal-back.png",
     "xws": "redlifegoalback"
   },
   {
     "name": "yellow life goal back",
-    "points": 14,
+    "points": 15,
     "image": "life-goals/yellow-life-goal-back.png",
     "xws": "yellowlifegoalback"
   },
   {
     "name": "life goal 1",
-    "points": 15,
+    "points": 16,
     "image": "life-goals/life-goal-1.png",
     "xws": "lifegoal1"
   },
   {
     "name": "life goal 2",
-    "points": 16,
+    "points": 17,
     "image": "life-goals/life-goal-2.png",
     "xws": "lifegoal2"
   },
   {
     "name": "life goal 3",
-    "points": 17,
+    "points": 18,
     "image": "life-goals/life-goal-3.png",
     "xws": "lifegoal3"
   },
   {
     "name": "life goal 4",
-    "points": 18,
+    "points": 19,
     "image": "life-goals/life-goal-4.png",
     "xws": "lifegoal4"
   },
   {
     "name": "life goal 5",
-    "points": 19,
+    "points": 20,
     "image": "life-goals/life-goal-5.png",
     "xws": "lifegoal5"
   },
   {
     "name": "life goal 6",
-    "points": 20,
+    "points": 21,
     "image": "life-goals/life-goal-6.png",
     "xws": "lifegoal6"
   },
   {
     "name": "life goal 7",
-    "points": 21,
+    "points": 22,
     "image": "life-goals/life-goal-7.png",
     "xws": "lifegoal7"
   },
   {
     "name": "life goal 8",
-    "points": 22,
+    "points": 23,
     "image": "life-goals/life-goal-8.png",
     "xws": "lifegoal8"
   },
   {
     "name": "life goal 9",
-    "points": 23,
+    "points": 24,
     "image": "life-goals/life-goal-9.png",
     "xws": "lifegoal9"
   },
   {
     "name": "life goal 10",
-    "points": 24,
+    "points": 25,
     "image": "life-goals/life-goal-10.png",
     "xws": "lifegoal10"
   }
