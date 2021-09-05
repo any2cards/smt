@@ -26,7 +26,7 @@
   {
     "name": "isla oscura",
     "points": 4,
-    "image": "origins/isla-oscura-origina.png",
+    "image": "origins/isla-oscura-origin.png",
     "xws": "islaoscura"
   },
   {
@@ -44,7 +44,7 @@
   {
     "name": "sao tome",
     "points": 7,
-    "image": "origins/soa-tome-origin.png",
+    "image": "origins/sao-tome-origin.png",
     "xws": "saotome"
   },
   {
