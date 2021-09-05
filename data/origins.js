@@ -1,27 +1,27 @@
 [
   {
-    "name": "origin blue back",
+    "name": "blue origin back",
     "points": 0,
-    "image": "origins/origin-blue-back.png",
-    "xws": "originblueback"
+    "image": "origins/blue-origin-back.png",
+    "xws": "blueoriginback"
   },
   {
-    "name": "origin green back",
+    "name": "green origin back",
     "points": 1,
-    "image": "origins/origin-green-back.png",
-    "xws": "origingreenback"
+    "image": "origins/green-origin-back.png",
+    "xws": "greenoriginback"
   },
   {
-    "name": "origin red back",
+    "name": "red origin back",
     "points": 2,
-    "image": "origins/origin-red-back.png",
-    "xws": "originredback"
+    "image": "origins/red-origin-back.png",
+    "xws": "redoriginback"
   },
   {
-    "name": "origin yellow back",
+    "name": "yellow origin back",
     "points": 3,
-    "image": "origins/origin-yellow-back.png",
-    "xws": "originyellowback"
+    "image": "origins/yellow-origin-back.png",
+    "xws": "yelloworiginback"
   },
   {
     "name": "isla oscura",
