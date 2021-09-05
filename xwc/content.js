@@ -1,5 +1,6 @@
 const files = [
   'boards.js',
+  'coins.js',
   'crews.js',
   'duels.js',
   'family-members.js',
