@@ -1,222 +1,222 @@
 [
   {
-    "name": "Treasures Back",
+    "name": "treasures back",
     "points": 0,
     "image": "treasures/treasures-back.png",
     "xws": "treasuresback"
   },
   {
-    "name": "Ancient Amulet",
+    "name": "ancient amulet",
     "points": 1,
     "image": "treasures/ancient-amulet.png",
     "xws": "ancientamulet"
   },
   {
-    "name": "Bale Of Silk",
+    "name": "bale of silk",
     "points": 2,
     "image": "treasures/bale-of-silk.png",
     "xws": "baleofsilk"
   },
   {
-    "name": "Blackbeard's Hat",
+    "name": "blackbeard's hat",
     "points": 3,
     "image": "treasures/blackbeards-hat.png",
     "xws": "blackbeardshat"
   },
   {
-    "name": "Blackmailer's Dagger",
+    "name": "blackmailer's dagger",
     "points": 4,
     "image": "treasures/blackmailers-dagger.png",
     "xws": "blackmailersdagger"
   },
   {
-    "name": "Bone Ring",
+    "name": "bone ring",
     "points": 5,
     "image": "treasures/bone-ring.png",
     "xws": "bonering"
   },
   {
-    "name": "Cardinal's Ring",
+    "name": "cardinal's ring",
     "points": 6,
     "image": "treasures/cardinals-ring.png",
     "xws": "cardinalsring"
   },
   {
-    "name": "Compass Of Desires",
+    "name": "compass of desires",
     "points": 7,
     "image": "treasures/compass-of-desires.png",
     "xws": "compassofdesires"
   },
   {
-    "name": "Cortez's Helmet",
+    "name": "cortez's helmet",
     "points": 8,
     "image": "treasures/cortezs-helmet.png",
     "xws": "cortezshelmet"
   },
   {
-    "name": "Cracked Musket",
+    "name": "cracked musket",
     "points": 9,
     "image": "treasures/cracked-musket.png",
     "xws": "crackedmusket"
   },
   {
-    "name": "Cursed Mask",
+    "name": "cursed mask",
     "points": 10,
     "image": "treasures/cursed-mask.png",
     "xws": "cursedmask"
   },
   {
-    "name": "Dead Man's Chest",
+    "name": "dead man's chest",
     "points": 11,
     "image": "treasures/dead-mans-chest.png",
     "xws": "deadmanschest"
   },
   {
-    "name": "Drake's Rapier",
+    "name": "drake's rapier",
     "points": 12,
     "image": "treasures/drakes-rapier.png",
     "xws": "drakesrapier"
   },
   {
-    "name": "Dutch Flag",
+    "name": "dutch flag",
     "points": 13,
     "image": "treasures/dutch-flag.png",
     "xws": "dutchflag"
   },
   {
-    "name": "English Flag",
+    "name": "english flag",
     "points": 14,
     "image": "treasures/english-flag.png",
     "xws": "englishflag"
   },
   {
-    "name": "French Flag",
+    "name": "french flag",
     "points": 15,
     "image": "treasures/french-flag.png",
     "xws": "frenchflag"
   },
   {
-    "name": "Hardwood Harpoon",
+    "name": "hardwood harpoon",
     "points": 16,
     "image": "treasures/hardwood-harpoon.png",
     "xws": "hardwoodharpoon"
   },
   {
-    "name": "Kraken Ring",
+    "name": "kraken ring",
     "points": 17,
     "image": "treasures/kraken-ring.png",
     "xws": "krakenring"
   },
   {
-    "name": "Lost Best Friend",
+    "name": "lost best friend",
     "points": 18,
     "image": "treasures/lost-best-friend.png",
     "xws": "lostbestfriend"
   },
   {
-    "name": "Lost Daughter",
+    "name": "lost daughter",
     "points": 19,
     "image": "treasures/lost-daughter.png",
     "xws": "lostdaughter"
   },
   {
-    "name": "Lost Son",
+    "name": "lost son",
     "points": 20,
     "image": "treasures/lost-son.png",
     "xws": "lostson"
   },
   {
-    "name": "Lucky Earring",
+    "name": "lucky earring",
     "points": 21,
     "image": "treasures/lucky-earring.png",
     "xws": "luckyearring"
   },
   {
-    "name": "One Man's Trash",
+    "name": "one man's trash",
     "points": 22,
     "image": "treasures/one-mans-trash.png",
     "xws": "onemanstrash"
   },
   {
-    "name": "Polished Plank",
+    "name": "polished plank",
     "points": 23,
     "image": "treasures/polished-plank.png",
     "xws": "polishedplank"
   },
   {
-    "name": "Rackham's Memoir",
+    "name": "rackham's memoir",
     "points": 24,
     "image": "treasures/rackhams-memoir.png",
     "xws": "rackhamsmemoir"
   },
   {
-    "name": "Raleigh's Spyglass",
+    "name": "raleigh's spyglass",
     "points": 25,
     "image": "treasures/raleighs-spyglass.png",
     "xws": "rayleighsspyglass"
   },
   {
-    "name": "Royal Signet Ring",
+    "name": "royal signet ring",
     "points": 26,
     "image": "treasures/royal-signet-ring.png",
     "xws": "royalsignetring"
   },
   {
-    "name": "Ship In A Bottle",
+    "name": "ship in a bottle",
     "points": 27,
     "image": "treasures/ship-in-a-bottle.png",
     "xws": "shipinabottle"
   },
   {
-    "name": "Shipwright's Tools",
+    "name": "shipwright's tools",
     "points": 28,
     "image": "treasures/shipwrights-tools.png",
     "xws": "shipwrightstools"
   },
   {
-    "name": "Silver Chandelier",
+    "name": "silver chandelier",
     "points": 29,
     "image": "treasures/silver-chandelier.png",
     "xws": "silverchandelier"
   },
   {
-    "name": "Spanish Flag",
+    "name": "spanish flag",
     "points": 30,
     "image": "treasures/spanish-flag.png",
     "xws": "spanishflag"
   },
   {
-    "name": "Sweat Of The Sun",
+    "name": "sweat of the sun",
     "points": 31,
     "image": "treasures/sweat-of-the-sun.png",
     "xws": "sweatofthesun"
   },
   {
-    "name": "Tears Of The Moon",
+    "name": "tears of the moon",
     "points": 32,
     "image": "treasures/tears-of-the-moon.png",
     "xws": "tearsofthemoon"
   },
   {
-    "name": "The Monkey's Paw",
+    "name": "the monkey's paw",
     "points": 33,
     "image": "treasures/the-monkeys-paw.png",
     "xws": "themonkeyspaw"
   },
   {
-    "name": "The Pirate Code",
+    "name": "the pirate code",
     "points": 34,
     "image": "treasures/the-pirate-code.png",
     "xws": "thepiratecode"
   },
   {
-    "name": "Treasure Map",
+    "name": "treasure map",
     "points": 35,
     "image": "treasures/treasure-map.png",
     "xws": "treasuremap"
   },
   {
-    "name": "Velvet Eye Patch",
+    "name": "velvet eye patch",
     "points": 36,
     "image": "treasures/velvet-eye-patch.png",
     "xws": "velveteyepatch"

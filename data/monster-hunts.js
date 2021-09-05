@@ -1,78 +1,78 @@
 [
   {
-    "name": "Monster Hunts Back",
+    "name": "monster hunts back",
     "points": 0,
     "image": "monster-hunts/monster-hunts-back.png",
     "xws": "monsterhuntsback"
   },
   {
-    "name": "Bad Planning",
+    "name": "bad planning",
     "points": 1,
     "image": "monster-hunts/bad-planning.png",
     "xws": "badplanning"
   },
   {
-    "name": "Bait It!",
+    "name": "bait it!",
     "points": 2,
     "image": "monster-hunts/bait-it.png",
     "xws": "baitit"
   },
   {
-    "name": "Brief Respite",
+    "name": "brief respite",
     "points": 3,
     "image": "monster-hunts/brief-respite.png",
     "xws": "briefrespite"
   },
   {
-    "name": "Distract It!",
+    "name": "distract it!",
     "points": 4,
     "image": "monster-hunts/distract-it.png",
     "xws": "distractit"
   },
   {
-    "name": "Finish It!",
+    "name": "finish it!",
     "points": 5,
     "image": "monster-hunts/finish-it.png",
     "xws": "finishit"
   },
   {
-    "name": "Heavy Load",
+    "name": "heavy load",
     "points": 6,
     "image": "monster-hunts/heavy-load.png",
     "xws": "heavyload"
   },
   {
-    "name": "Man Overboard!",
+    "name": "man overboard!",
     "points": 7,
     "image": "monster-hunts/man-overboard.png",
     "xws": "manoverboard"
   },
   {
-    "name": "Outmaneuvered!",
+    "name": "outmaneuvered!",
     "points": 8,
     "image": "monster-hunts/outmaneuvered.png",
     "xws": "outmaneuvered"
   },
   {
-    "name": "Outsmart It!",
+    "name": "outsmart it!",
     "points": 9,
     "image": "monster-hunts/outsmart-it.png",
     "xws": "outsmartit"
   },
   {
-    "name": "Poison It!",
+    "name": "poison it!",
     "points": 10,
     "image": "monster-hunts/poison-it.png",
     "xws": "poisonit"
   },
   {
-    "name": "Pushed Aside!",
+    "name": "pushed aside!",
     "points": 11,
     "image": "monster-hunts/pushed-aside.png",
     "xws": "pushedaside"
   },
   {
-    "name": "Ram It!",
+    "name": "ram it!",
     "points": 12,
     "image": "monster-hunts/ram-it.png",
     "xws": "ramit"

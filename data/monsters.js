@@ -1,66 +1,66 @@
 [
   {
-    "name": "Monsters",
+    "name": "monsters",
     "points": 0,
     "image": "monsters/monsters.png",
     "xws": "monsters"
   },
   {
-    "name": "The Kraken",
+    "name": "the kraken",
     "points": 1,
     "image": "monsters/the-kraken.png",
     "xws": "thekracken"
   },
   {
-    "name": "The Kraken Back",
+    "name": "the kraken back",
     "points": 2,
     "image": "monsters/the-kraken-back.png",
     "xws": "thekrackenback"
   },
   {
-    "name": "The Kraken Cannon",
+    "name": "the kraken cannon",
     "points": 3,
     "image": "monsters/the-kraken-cannon.png",
     "xws": "thekrackencannon"
   },
   {
-    "name": "The Kraken Gold",
+    "name": "the kraken gold",
     "points": 4,
     "image": "monsters/the-kraken-gold.png",
     "xws": "thekrackengold"
   },
   {
-    "name": "The Kraken Treasure",
+    "name": "the kraken treasure",
     "points": 5,
     "image": "monsters/the-kraken-treasure.png",
     "xws": "thekrackentreasure"
   },
   {
-    "name": "The Sea Serpent",
+    "name": "the sea serpent",
     "points": 6,
     "image": "monsters/the-sea-serpent.png",
     "xws": "theseaserpent"
   },
   {
-    "name": "The Sea Serpent Back",
+    "name": "the sea serpent back",
     "points": 7,
     "image": "monsters/the-sea-serpent-back.png",
     "xws": "theseaserpentback"
   },
   {
-    "name": "The Sea Serpent Cannon",
+    "name": "the sea serpent cannon",
     "points": 8,
     "image": "monsters/the-sea-serpent-cannon.png",
     "xws": "theseaserpentcannon"
   },
   {
-    "name": "The Sea Serpent Gold",
+    "name": "the sea serpent gold",
     "points": 9,
     "image": "monsters/the-sea-serpent-gold.png",
     "xws": "theseaserpentgold"
   },
   {
-    "name": "The Sea Serpent Treasure",
+    "name": "the sea serpent treasure",
     "points": 10,
     "image": "monsters/the-sea-serpent-treasure.png",
     "xws": "theseaserpentreasure"

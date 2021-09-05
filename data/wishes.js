@@ -1,48 +1,48 @@
 [
   {
-    "name": "Wishes Back",
+    "name": "wishes back",
     "points": 0,
     "image": "wishes/wishes-back.png",
     "xws": "wishesback"
   },
   {
-    "name": "Chase Away The Suitors",
+    "name": "chase away the suitors",
     "points": 1,
     "image": "wishes/chase-away-the-suitors.png",
     "xws": "chaseawaythesuitors"
   },
   {
-    "name": "Family Jewels",
+    "name": "family jewels",
     "points": 2,
     "image": "wishes/family-jewels.png",
     "xws": "familyjewels"
   },
   {
-    "name": "Feed The Poor",
+    "name": "feed the poor",
     "points": 3,
     "image": "wishes/feed-the-poor.png",
     "xws": "feedthepoor"
   },
   {
-    "name": "Home And Family",
+    "name": "home and family",
     "points": 4,
     "image": "wishes/home-and-family.png",
     "xws": "homeandfamily"
   },
   {
-    "name": "Rise To Nobility",
+    "name": "rise to nobility",
     "points": 5,
     "image": "wishes/rise-to-nobility.png",
     "xws": "risetonobility"
   },
   {
-    "name": "Slay The Dragon",
+    "name": "slay the dragon",
     "points": 6,
     "image": "wishes/slay-the-dragon.png",
     "xws": "slaythedragon"
   },
   {
-    "name": "The Biggest Boat",
+    "name": "the biggest boat",
     "points": 7,
     "image": "wishes/the-biggest-boat.png",
     "xws": "thebiggestboat"

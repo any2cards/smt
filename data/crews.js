@@ -1,48 +1,48 @@
 [
   {
-    "name": "Crews Back",
+    "name": "crews back",
     "points": 0,
     "image": "crews/crews-back.png",
     "xws": "crewsback"
   },
   {
-    "name": "Daring Cabin Boy",
+    "name": "daring cabin boy",
     "points": 1,
     "image": "crews/daring-cabin-boy.png",
     "xws": "daringcabinboy"
   },
   {
-    "name": "First Mate",
+    "name": "first mate",
     "points": 2,
     "image": "crews/first-mate.png",
     "xws": "firstmate"
   },
   {
-    "name": "Masterful Spy",
+    "name": "masterful spy",
     "points": 3,
     "image": "crews/masterful-spy.png",
     "xws": "masterfulspy"
   },
   {
-    "name": "Reckless Smuggler",
+    "name": "reckless smuggler",
     "points": 4,
     "image": "crews/reckless-smuggler.png",
     "xws": "recklesssmuggler"
   },
   {
-    "name": "Scurvy Saboteur",
+    "name": "scurvy saboteur",
     "points": 5,
     "image": "crews/scurvy-saboteur.png",
     "xws": "scurvysaboteur"
   },
   {
-    "name": "Veteran Sellsword",
+    "name": "veteran sellsword",
     "points": 6,
     "image": "crews/veteran-sellsword.png",
     "xws": "veteransellsword"
   },
   {
-    "name": "Yellow Jack",
+    "name": "yellow jack",
     "points": 7,
     "image": "crews/yellow-jack.png",
     "xws": "crewsback"

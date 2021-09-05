@@ -1,42 +1,42 @@
 [
   {
-    "name": "Titles Back",
+    "name": "titles back",
     "points": 0,
     "image": "titles/titles-back.png",
     "xws": "titlesback"
   },
   {
-    "name": "Emissary Of The Crown",
+    "name": "emissary of the crown",
     "points": 1,
     "image": "titles/emissary-of-the-crown.png",
     "xws": "emissaryofthecrown"
   },
   {
-    "name": "Royal Purveyor Cocoa",
+    "name": "royal purveyor cocoa",
     "points": 2,
     "image": "titles/royal-purveyor-cocoa.png",
     "xws": "royalpurveyorcocoa"
   },
   {
-    "name": "Royal Purveyor Rum",
+    "name": "royal purveyor rum",
     "points": 3,
     "image": "titles/royal-purveyor-rum.png",
     "xws": "royalpurveyorrum"
   },
   {
-    "name": "Royal Purveyor Sugar",
+    "name": "royal purveyor sugar",
     "points": 4,
     "image": "titles/royal-purveyor-sugar.png",
     "xws": "royalpurveyorsugar"
   },
   {
-    "name": "The Governor's Buccaneer",
+    "name": "the governor's buccaneer",
     "points": 5,
     "image": "titles/the-governors-buccaneer.png",
     "xws": "thegovernorsbuccaneer"
   },
   {
-    "name": "The King's Privateer",
+    "name": "the king's privateer",
     "points": 6,
     "image": "titles/the-kings-privateer.png",
     "xws": "thekingsprivateer"

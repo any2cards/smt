@@ -1,150 +1,150 @@
 [
   {
-    "name": "Wind Events -1 Back",
+    "name": "wind events -1 back",
     "points": 0,
     "image": "wind-events/wind-events--1-back.png",
     "xws": "windevents-1back"
   },
   {
-    "name": "Wind Events 0 Back",
+    "name": "wind events 0 back",
     "points": 1,
     "image": "wind-events/wind-events-0-back.png",
     "xws": "windevents0back"
   },
   {
-    "name": "Wind Events 1 Back",
+    "name": "wind events 1 back",
     "points": 2,
     "image": "wind-events/wind-events-1-back.png",
     "xws": "windevents1back"
   },
   {
-    "name": "Wind Events 2 Back",
+    "name": "wind events 2 back",
     "points": 3,
     "image": "wind-events/wind-events-2-back.png",
     "xws": "windevents2back"
   },
   {
-    "name": "Wind Events 3 Back",
+    "name": "wind events 3 back",
     "points": 4,
     "image": "wind-events/wind-events-3-back.png",
     "xws": "windevents3back"
   },
   {
-    "name": "Blessed By The Gods",
+    "name": "blessed by the gods",
     "points": 5,
     "image": "wind-events/blessed-by-the-gods.png",
     "xws": "blessedbythegods"
   },
   {
-    "name": "Bright Mornings",
+    "name": "bright mornings",
     "points": 6,
     "image": "wind-events/bright-mornings.png",
     "xws": "brightmornings"
   },
   {
-    "name": "Brotherhood's Help",
+    "name": "brotherhood's help",
     "points": 7,
     "image": "wind-events/brotherhoods-help.png",
     "xws": "brotherhoodshelp"
   },
   {
-    "name": "Cocoa Shortage",
+    "name": "cocoa shortage",
     "points": 8,
     "image": "wind-events/cocoa-shortage.png",
     "xws": "cocoashortage"
   },
   {
-    "name": "Crowded Taverns",
+    "name": "crowded taverns",
     "points": 9,
     "image": "wind-events/crowded-taverns.png",
     "xws": "crowdedtaverns"
   },
   {
-    "name": "Fast Spreading News",
+    "name": "fast spreading news",
     "points": 10,
     "image": "wind-events/fast-spreading-news.png",
     "xws": "fastspreadingnews"
   },
   {
-    "name": "Hands For Hire",
+    "name": "hands for hire",
     "points": 11,
     "image": "wind-events/hands-for-hire.png",
     "xws": "handsforhire"
   },
   {
-    "name": "Helpful Strangers",
+    "name": "helpful strangers",
     "points": 12,
     "image": "wind-events/helpful-strangers.png",
     "xws": "helpfulstrangers"
   },
   {
-    "name": "Hunt The Intruders",
+    "name": "hunt the intruders",
     "points": 13,
     "image": "wind-events/hunt-the-intruders.png",
     "xws": "hunttheintruders"
   },
   {
-    "name": "Leaked Knowledge",
+    "name": "leaked knowledge",
     "points": 14,
     "image": "wind-events/leaked-knowledge.png",
     "xws": "leakedknowledge"
   },
   {
-    "name": "Royal Amnesty",
+    "name": "royal amnesty",
     "points": 15,
     "image": "wind-events/royal-amnesty.png",
     "xws": "royalamnesty"
   },
   {
-    "name": "Rum Shortage",
+    "name": "rum shortage",
     "points": 16,
     "image": "wind-events/rum-shortage.png",
     "xws": "rumshortage"
   },
   {
-    "name": "Spy Network",
+    "name": "spy network",
     "points": 17,
     "image": "wind-events/spy-network.png",
     "xws": "spynetwork"
   },
   {
-    "name": "Stormy Wheather",
+    "name": "stormy wheather",
     "points": 18,
     "image": "wind-events/stormy-wheather.png",
     "xws": "stormywheather"
   },
   {
-    "name": "Sugar Shortage",
+    "name": "sugar shortage",
     "points": 19,
     "image": "wind-events/sugar-shortage.png",
     "xws": "sugarshortage"
   },
   {
-    "name": "Surplus Of Canvas",
+    "name": "surplus of canvas",
     "points": 20,
     "image": "wind-events/surplus-of-canvas.png",
     "xws": "surplusofcanvas"
   },
   {
-    "name": "Surplus Of Wood",
+    "name": "surplus of wood",
     "points": 21,
     "image": "wind-events/surplus-of-wood.png",
     "xws": "surplusofwood"
   },
   {
-    "name": "Time Of Need",
+    "name": "time of need",
     "points": 22,
     "image": "wind-events/time-of-need.png",
     "xws": "timeofneed"
   },
   {
-    "name": "War On Pirates",
+    "name": "war on pirates",
     "points": 23,
     "image": "wind-events/war-on-pirates.png",
     "xws": "waronpirates"
   },
   {
-    "name": "Wreck Diving",
+    "name": "wreck diving",
     "points": 24,
     "image": "wind-events/wreck-diving.png",
     "xws": "wreckdiving"
