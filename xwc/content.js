@@ -8,6 +8,7 @@ const files = [
   'fortresses.js',
   'islands.js',
   'life-goals.js',
+  'markers.js',
   'merchants.js',
   'miniatures.js',
   'missions.js',

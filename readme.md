@@ -15,6 +15,7 @@ This repository contains data and images for the following components:
 - fortresses
 - islands
 - life-goals
+- markers
 - merchants
 - miniatures
 - missions
