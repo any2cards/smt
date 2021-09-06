@@ -2,6 +2,7 @@ const files = [
   'boards.js',
   'coins.js',
   'crews.js',
+  'damage.js',
   'dice.js',
   'duels.js',
   'family-members.js',
