@@ -9,6 +9,7 @@ This repository contains data and images for the following components:
 - boards
 - coins
 - crews
+- dice
 - duels
 - family-members
 - fortresses
