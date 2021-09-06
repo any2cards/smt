@@ -40,5 +40,5 @@
     "points": 6,
     "image": "markers/damage-markers.png",
     "xws": "damagemarker"
-  },
+  }
 ]
