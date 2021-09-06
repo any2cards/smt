@@ -3,7 +3,7 @@
     "name": "coins",
     "points": 0,
     "image": "coins/coins.png",
-    "xws": "100goldcoin"
+    "xws": "coins"
   },
   {
     "name": "100 gold coin",
