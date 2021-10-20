@@ -37,6 +37,13 @@
 				border: 1px solid #9999ff;
 				background-color: #dddddd;
 			}
+			.table-padded td {
+				padding: 0px 20px 0px 30px;
+			}
+			.td-bu {
+				font-weight: bold;
+				Text-decoration: underline;
+			}
 		</style>
 		<script>
 			// at statup hide all
@@ -52,13 +59,13 @@
 					var LinkedTextZone = $(this).next();
 
 					if (Icon.hasClass('fa-plus')) {
-						//switch icin from + to -
+						//switch icon from + to -
 						Icon.removeClass('fa-plus').addClass('fa-minus');
 						//expand text Zone
 						LinkedTextZone.slideDown();
 					}
 					else {
-						//switch icin from - to +
+						//switch icon from - to +
 						Icon.removeClass('fa-minus').addClass('fa-plus');
 						//collapse text Zone
 						LinkedTextZone.slideUp();
@@ -102,15 +109,12 @@
 		<div class="accordion">
 			<h1><i class="fa fa-plus"></i> Boards </h1>
 			<div class="TextZone">
-				<ul>
-					<li>Epic Game Board</li>
-					<li>Player Mat</li>
-					<li>Standard Game Board</li>
-					<li>Treasure Map 1</li>
-					<li>Treasure Map 2</li>
-					<li>Treasure Map 3</li>
-					<li>Treasure Map 4</li>
-				</ul>
+				<table class="table-padded">
+					<tr><td>Standard Game Board</td><td>Player Mat</td><td>Treasure Map 1</td></tr>
+					<tr><td>Epic Game Board</td><td>&nbsp</td><td>Treasure Map 2</td></tr>
+					<tr><td>&nbsp</td><td>&nbsp</td><td>Treasure Map 3</td></tr>
+					<tr><td>&nbsp</td><td>&nbsp</td><td>Treasure Map 4</td></tr>
+				</table>
 			</div>
 		</div>
 
