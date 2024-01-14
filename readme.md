@@ -37,23 +37,15 @@ There are three top-level directories; `data` , `images` , and `xwc`.
 
 ### data
 
-The `data` folder contains all SMT Card Viewer data in JSON format.
+The `data` folder contains all SMT Asset Viewer data in JSON format.
 
 ### images
 
-The `images` folder contains SMT Card Viewer images for each of the above data components.
+The `images` folder contains SMT Asset Viewer images for each of the above data components.
 
 ### xwc
 
-The `xwc` folder contains all of the files that power the SMT Card Viewer Chrome Extension/Firefox Add-On.
-
-## Usage
-
-You can use this data to build your own apps, etc.
-
-The easiest way to do this is via [Git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules#Starting-with-Submodules):
-
-* Git submodule: `git submodule add https://github.com/any2cards/smt.git`
+The `xwc` folder contains all of the files that power the SMT Asset Viewer Chrome Extension/Firefox Add-On.
 
 ## Bugs / Issues
 
@@ -73,10 +65,7 @@ When adding images please use [TinyPNG](https://tinypng.com/) to reduce their fi
 
 A list of projects that use this content:
 
-- [SMT Card Viewer](https://chrome.google.com/webstore/detail/shiver-me-timbers-card-vi/ghkemgcekgmlbljofgjgcglodnchnnal) (Chrome Extension)
-- [SMT Card Viewer](https://addons.mozilla.org/en-US/firefox/addon/shiver-me-timbers-card-viewer/) (Firefox Add-On)
-
-Want your project listed here? [Let us know!](https://github.com/any2cards/smt/issues/new?title=Add%20Project)
+- [SMT Asset Viewer](https://chromewebstore.google.com/detail/smt-asset-viewer/ghkemgcekgmlbljofgjgcglodnchnnal) (Chrome Extension)
 
 ## Versioning
 
@@ -93,8 +82,6 @@ See the [Releases tab](https://github.com/any2cards/smt/releases) in Github.
 
 - William Habush (any2cards@yahoo.com)
 - Michal Vitkovsky (michal.vitkovsky@gmx.de)
-
-This work would not have been possible without the invaluable help and guidance of Guido Kessels. You can find his excellent X-Wing data at: https://github.com/guidokessels/xwing-data.
 
 ---
 
