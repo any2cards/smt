@@ -28,7 +28,7 @@ var files = [
 ];
 
 var expansion_conversion = {
-	"smt": "Shiver Me Timbers",
+	"bg": "Base Game",
 };
 
 var expansion_card_type = {}
